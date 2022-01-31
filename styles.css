@@ -1,0 +1,30 @@
+h1 {
+    width: 100%;
+    height: 200px;
+    background-image: url('https://www.parks.ca.gov/pages/29142/images/Hike_pic.png') ;
+    color:rgb(133, 81, 13);
+    text-align: center;
+
+    font-size: 50px;
+    font-weight: 200px;
+    box-shadow: 10px 10px;
+    
+}
+h2{font-size: 30px;
+    font-style: oblique;
+    color: rgb(159, 82, 27);
+}
+*{
+    font-family: sans-serif;
+}
+p{
+    text-indent: 20px;
+}
+div{
+    height: 580px;
+    width: 100%;
+    background-image: url('https://familytraveller.com/usa/wp-content/uploads/sites/2/2017/09/zion-waterfall-e1523644459692.jpg');
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
